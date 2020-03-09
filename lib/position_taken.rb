@@ -24,10 +24,10 @@ end
 
 
 # This didn't work because for comparison seperated by || has to be defined again what it is comparing to.
-#def position_taken?(board, index)
+# def position_taken?(board, index)
 #  if board[index] == " " || == "" || == nil
 #    false
 #  else board[index] == "X" || "O"
 #    true
 #  end
-#end
+# end
