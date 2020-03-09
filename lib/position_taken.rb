@@ -1,6 +1,6 @@
 # code your #position_taken? method here!
 
- HOW COME THIS DOESN'T WORK?????
+# HOW COME THIS DOESN'T WORK?????
 def position_taken?(board, index)
   if board[index] == " " || board[index] == "" || board[index == nil
     false
